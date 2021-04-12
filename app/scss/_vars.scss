@@ -1,0 +1,14 @@
+@mixin f300 {
+    font-family: 'Oswald-Light', sans-serif;
+    font-weight: 300;
+}
+
+@mixin f400 {
+    font-family: 'Oswald-Regular', sans-serif;
+    font-weight: 400;
+}
+
+@mixin f500 {
+    font-family: 'Oswald-Medium', sans-serif;
+    font-weight: 500;
+}
